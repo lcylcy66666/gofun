@@ -1,6 +1,6 @@
-# VocabBar website
+# Gofun website
 
-Static Traditional Chinese landing page, support page, and privacy policy for VocabBar. Serve the repository root through GitHub Pages using **Deploy from a branch**. There is no custom build workflow.
+Static Traditional Chinese landing page, support page, and privacy policy for Gofun. Serve the repository root through GitHub Pages using **Deploy from a branch**. There is no custom build workflow.
 
 The support contact is `officialgofun@gmail.com`, shown on `support.html` and `privacy.html`. Recheck the privacy policy against the shipping app before submission.
 
