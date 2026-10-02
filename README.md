@@ -1,4 +1,4 @@
-# Gofun website
+# Gofun：五分鐘日文 website
 
 Static Traditional Chinese landing page, support page, and privacy policy for Gofun. Serve the repository root through GitHub Pages using **Deploy from a branch**. There is no custom build workflow.
 
